@@ -1,5 +1,6 @@
 import app_control
-from grok_engine import ask_groq, clear_memory, classify_intent
+from grok_engine import clear_memory, classify_intent
+from cortex_engine import ask_cortex, clear_cortex_memory
 from voice_engine import speak, listen
 
 COMMAND_MAP = {
@@ -66,5 +67,5 @@ while True:
         COMMAND_MAP[intent]()
         speak("Done!")
     else:
-        response = ask_groq(user_input)
+        response = ask_cortex(user_input)
         speak(response)
