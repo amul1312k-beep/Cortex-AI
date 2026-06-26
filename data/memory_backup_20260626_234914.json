@@ -1,0 +1,100 @@
+{
+  "profile": {
+    "name": "Amul",
+    "age": null,
+    "location": null,
+    "occupation": "AI Developer",
+    "created_at": "2026-06-26 23:36:13",
+    "last_seen": null
+  },
+  "preferences": {
+    "language": "English",
+    "voice_enabled": true,
+    "theme": "dark",
+    "response_style": "detailed",
+    "wake_word": "hey cortex"
+  },
+  "favourite_apps": [],
+  "favourite_websites": [],
+  "habits": {},
+  "notes": [
+    {
+      "id": 1,
+      "content": "Build Cortex Phase 2 this week",
+      "tag": "goals",
+      "created_at": "2026-06-26 23:36:13"
+    },
+    {
+      "id": 2,
+      "content": "Install Ollama and test Llama 3",
+      "tag": "tasks",
+      "created_at": "2026-06-26 23:36:13"
+    },
+    {
+      "id": 3,
+      "content": "i need to finish memory module today",
+      "tag": "general",
+      "created_at": "2026-06-26 23:36:13"
+    },
+    {
+      "id": 4,
+      "content": "Build Cortex Phase 2 this week",
+      "tag": "goals",
+      "created_at": "2026-06-26 23:49:13"
+    },
+    {
+      "id": 5,
+      "content": "Install Ollama and test Llama 3",
+      "tag": "tasks",
+      "created_at": "2026-06-26 23:49:13"
+    },
+    {
+      "id": 6,
+      "content": "i need to finish memory module today",
+      "tag": "general",
+      "created_at": "2026-06-26 23:49:13"
+    }
+  ],
+  "reminders": [
+    {
+      "id": 1,
+      "content": "Push code to GitHub",
+      "remind_at": "tonight",
+      "created_at": "2026-06-26 23:36:13",
+      "done": false
+    },
+    {
+      "id": 2,
+      "content": "Push code to GitHub",
+      "remind_at": "tonight",
+      "created_at": "2026-06-26 23:49:13",
+      "done": false
+    }
+  ],
+  "custom_commands": {
+    "work mode": {
+      "action": "open vscode, open chrome, open notion",
+      "created_at": "2026-06-26 23:49:13"
+    }
+  },
+  "session_summaries": [],
+  "facts": {
+    "favourite color": {
+      "value": "black",
+      "saved_at": "2026-06-26 23:49:13"
+    },
+    "favourite language": {
+      "value": "Python",
+      "saved_at": "2026-06-26 23:49:13"
+    },
+    "birthday": {
+      "value": "july 4",
+      "saved_at": "2026-06-26 23:49:13"
+    },
+    "likes dark themes": {
+      "value": "yes",
+      "saved_at": "2026-06-26 23:49:13"
+    }
+  },
+  "tags": {}
+}
