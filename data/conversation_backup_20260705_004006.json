@@ -1,0 +1,75 @@
+{
+  "sessions": [],
+  "current_session": {
+    "session_id": "session_20260705_004006",
+    "started_at": "2026-07-05 00:40:06",
+    "ended_at": null,
+    "summary": null,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hey Cortex, what can you do?",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "intent": "AI"
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "I'm Cortex AI — I can control your computer, answer questions, manage files, and more!",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "engine": "cortex_engine"
+        }
+      },
+      {
+        "role": "user",
+        "content": "Open Chrome for me",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "intent": "SYSTEM"
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Opening Chrome now.",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "engine": "cortex_engine"
+        }
+      },
+      {
+        "role": "user",
+        "content": "Remember my favourite editor is VS Code",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "intent": "MEMORY"
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Got it! I'll remember your favourite editor is VS Code.",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "engine": "cortex_engine"
+        }
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "intent": "AI"
+        }
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning is a branch of AI where systems learn from data to improve over time.",
+        "timestamp": "2026-07-05 00:40:06",
+        "metadata": {
+          "engine": "cortex_engine"
+        }
+      }
+    ]
+  }
+}
